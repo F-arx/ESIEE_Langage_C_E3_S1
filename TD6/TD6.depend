@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1772728889 source:c:\users\fabio\documents\langage c\td6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1772728786 c:\users\fabio\documents\langage c\td6\function.h
+
+1772728866 source:c:\users\fabio\documents\langage c\td6\function.c
+	<stdio.h>
+	<stdlib.h>
+	"stdlib.h"
+

@@ -21,9 +21,20 @@ int main()
 //    ex1();
 //    ex2();
 //    ex3();
-    ex4();
+//    ex4();
 //    ex5();
 //    ex6();
+
+char nom[21]="";
+printf("Quels est votre nom ?");
+fgets(nom,21,stdin);
+
+
+
+
+
+
+
     return 0;
 }
 //  EXERCICE 1
@@ -163,6 +174,12 @@ float* concat(float* tab1,int n1, float* tab2, int n2){
     return concated_tab ;
 }
 void ex6(){
+
+
+
+
+
+
 
 
 
